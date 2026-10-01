@@ -184,8 +184,8 @@ IF(
 
 ```
 ├── README.md
-├── powerbi/
-│   └── sales_dashboard.pbix
+├── 
+│  sales_dashboard.pbix
 └── screenshots/        (dashboard images)
 ```
 
